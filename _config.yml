@@ -1,4 +1,3 @@
-layout_spectrum: 0.6215609309729189
 typography_spectrum: 0.7096041408367455
 color:
   brandStrength: 0.16391380922868848
@@ -11,4 +10,6 @@ color:
     - '#EFECCA'
     - '#046380'
     - '#002F2F'
+layout_spectrum: 0.6215609309729189
 name: forever yes
+title: 2DAY
